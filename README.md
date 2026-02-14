@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm passionate about tutoring math, learning about cybersecurit,y with experience in e-commerce and small business development. I love taking on the world and learning new topics daily to imporve the version of me that was yesterday. Learning new skills, and collaborating with diverse teams to create resoruceful solutions in both englsih and spanish. I do not back-down to challanges , and I embrace knowing I do not know everything. 
+I'm passionate about tutoring math, learning about cybersecurit, while venturing from 11 years of e-commerce and small business development. I love taking on the world and learning new topics daily to imporve the version of me, that I was yesterday. Learning new skills, and collaborating with diverse teams to create resoruceful solutions in both englsih and spanish, drives me. I do not back-down to challanges , and I embrace the nepantla (Nahuatl) state.  
 
 - 🌱 Currently learning: Offense and defense 
 - 🔭 Working on: my undergrad in cybersecurity
