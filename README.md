@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Kita]! 👋
 
-![![Header](./your-header-image-name.png)
+[<img width="1106" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/96d529db-ef90-468c-97c8-c43393c5bec5" />]!
 
 ## About Me 🚀
 
