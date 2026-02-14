@@ -6,11 +6,11 @@
 
 I'm passionate about tutoring math, learning about cybersecurit, while venturing from 11 years of e-commerce and small business development. I love taking on the world and learning new topics daily to imporve the version of me, that I was yesterday. Learning new skills, and collaborating with diverse teams to create resoruceful solutions in both englsih and spanish, drives me. I do not back-down to challanges , and I embrace the nepantla (Nahuatl) state.  
 
-- 🌱 Currently learning: Offense and defense 
-- 🔭 Working on: my undergrad in cybersecurity
-- 🌍 Languages: Spanish, english and learning programing languages. 
-- 📫 How to reach me: mypinksafe@gmail.com
-- ⚡ Fun fact : there is beauty in coding  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Currently learning: Offense and defense 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Working on: my undergrad in cybersecurity
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Languages: Spanish, english and learning programing languages. 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> How to reach me: mypinksafe@gmail.com
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Fun fact : there is beauty in coding  
   
 ## My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
