@@ -4,11 +4,13 @@
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
-I'm passionate about tutoring math, learning about cybersecurit, while venturing from 11 years of e-commerce and small business development. I love taking on the world and learning new topics daily to imporve the version of me, that I was yesterday. Learning new skills, and collaborating with diverse teams to create resoruceful solutions in both englsih and spanish, drives me. I do not back-down to challanges , and I embrace the nepantla (Nahuatl) state.  
+I’m passionate about tutoring math, exploring the world of cybersecurity, and building on 10 years of experience in e‑commerce and small‑business development. I love taking on challenges and learning something new every day, always aiming to become a stronger version of who I was yesterday.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Currently learning: Offense and defense 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Working on: my undergrad in cybersecurity
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Languages: Spanish, english and learning programing languages. 
+Collaboration fuels me. Working with diverse teams to create resourceful, bilingual solutions in English and Spanish is where I thrive. I don’t shy away from difficult problems; I embrace the nepantla state — that space of transition, growth, and transformation.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Currently learning: Offensive and defensive cybersecurity concepts
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Working on: My undergraduate in cybersecurity
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Languages: Spanish, English and currently learning programming languages. 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> How to reach me: mypinksafe@gmail.com
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" /> Fun fact : there is beauty in coding  
   
