@@ -1,8 +1,8 @@
-# Hi there, I'm Kita! 👋
+# Hi there, I'm Kita! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" />
 
 <img width="1106" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/96d529db-ef90-468c-97c8-c43393c5bec5" />
 
-## About Me 🚀
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
 I'm passionate about tutoring math, learning about cybersecurit, while venturing from 11 years of e-commerce and small business development. I love taking on the world and learning new topics daily to imporve the version of me, that I was yesterday. Learning new skills, and collaborating with diverse teams to create resoruceful solutions in both englsih and spanish, drives me. I do not back-down to challanges , and I embrace the nepantla (Nahuatl) state.  
 
@@ -12,11 +12,11 @@ I'm passionate about tutoring math, learning about cybersecurit, while venturing
 - 📫 How to reach me: mypinksafe@gmail.com
 - ⚡ Fun fact : there is beauty in coding  
   
-## My Skills 🧠
+## My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
 ### [Project 1 Title](project_1_link)
 
@@ -30,7 +30,7 @@ I'm passionate about tutoring math, learning about cybersecurit, while venturing
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-## Get in Touch 📬
+## Get in Touch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
 - **[Personal Website / Blog]**
 - **[LinkedIn]**
