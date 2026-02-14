@@ -1,6 +1,6 @@
-# Hi there, I'm Kita! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" />
-
 <img width="1106" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/96d529db-ef90-468c-97c8-c43393c5bec5" />
+
+# Hi there, I'm Kita! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" />
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
