@@ -20,11 +20,9 @@ Collaboration fuels me. Working with diverse teams to create resourceful, biling
 
 ## Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
-### [Project 1 Title](project_1_link)
+### [Project 1 30 DAYS PYTHON CHALLENGE ](https://github.com/thepinksafe/30DaysOfPython.git))
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[30 Days of Python Challenge ]** . This project is a 30 day self-learned challenge doing Python projects on Pycharm doing. You kindly can check out the repository [here](https://github.com/thepinksafe/30DaysOfPython.git)).
 
 ### [Project 2 Title](project_2_link)
 
